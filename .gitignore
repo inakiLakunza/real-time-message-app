@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Database
+*.db
+
+# User Uploads (The files sent through the chat)
+uploads/*
+!uploads/.gitkeep
+
+# Environment/OS
+.env
+.DS_Store
+Thumbs.db
