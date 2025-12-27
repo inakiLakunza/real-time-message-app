@@ -33,9 +33,12 @@ This project serves as a comprehensive communication tool designed for local net
 ![Direct Chat](media/direct_chat.png)
 
 ### Group Conversations
-| Group View - User A | Group View - User B |
-|:---:|:---:|
-| ![Group Chat 1](media/group_chat_1.png) | ![Group Chat 2](media/group_chat_2.png) |
+
+**Part 1**
+![Group Chat 1](media/group_chat_1.png)
+
+**Part 2**
+![Group Chat 2](media/group_chat_2.png)
 
 ### 🎬 Video Tutorial
 A full pipeline demonstration including registration, chat creation, media sharing, and reactions is available here:
