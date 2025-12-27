@@ -59,7 +59,7 @@ A full pipeline demonstration including registration, chat creation, media shari
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/inakiLakunza/real_time_message_app.git](https://github.com/inakiLakunza/message_app.git)
+git clone [https://github.com/inakiLakunza/real-time-message-app.git](https://github.com/inakiLakunza/real-time-message-app.git)
 cd message_app
 ```
 
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 CV available in LinkedIn
 
-**Project Link:** [https://github.com/inakiLakunza/real-time-message-app](https://github.com/inakiLakunza/real_time_message_app)
+**Project Link:** [https://github.com/inakiLakunza/real-time-message-app](https://github.com/inakiLakunza/real-time-message-app)
 
 ---
 
